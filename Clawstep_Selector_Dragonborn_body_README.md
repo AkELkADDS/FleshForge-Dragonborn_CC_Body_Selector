@@ -1,4 +1,4 @@
-Clawstep_Selector_Dragonborn_body
+ZXY - FleshForge - Dragonborn CC Body Selector
 
 [ModIO](https://mod.io/g/baldursgate3/m/clawstep-dragonborn-body-selector#description)
 [Nexus](https://www.nexusmods.com/baldursgate3/mods/19392)
