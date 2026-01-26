@@ -333,6 +333,13 @@
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_BodySelector_NPC_0_button"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.62548828"/>
+                    <attribute id="V2" type="float" value="0.74951172"/>
+                </node>
             </children>
         </node>
     </region>

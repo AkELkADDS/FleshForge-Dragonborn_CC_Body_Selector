@@ -4231,5 +4231,57 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Tail_A_Long_Tattoo_KAD" />
       </fields>
     </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_276" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9ff0004e-cd93-48e3-8eac-05093e0988b3" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="9e557ffd-9dd2-863b-876a-1648325850e5" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h128366bag2cbega8ccgd8fdg73650898b1e1" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_VNL_BodySelector_NPC_0_button" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_277" />
+        <field name="UUID" type="IdTableFieldDefinition" value="35381634-131a-4374-be5a-84103db719c2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="6c322f33-5289-4324-93e3-9deffad600d7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6f0aebd4g3ba0g929bg4fe4g496e423510dc" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="AkELkA_Tech_Button_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_278" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6f0548d0-eb7a-4f64-b169-d279339b6995" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4a828fecg9779ge853gf88egf23a4b26bc1b" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_VNL_BodySelector_NPC_0_button" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_279" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cfd51a21-3aa0-4ea8-ad26-22ea26d2ec23" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Beard" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ff04fbab-2290-4632-b3c2-3c6cb9531301" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h65613a4agd405g03e6g0ec9g5ed85a7919d8" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="AkELkA_Tech_Button_A" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

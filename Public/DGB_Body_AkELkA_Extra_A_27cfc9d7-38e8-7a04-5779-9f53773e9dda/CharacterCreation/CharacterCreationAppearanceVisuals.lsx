@@ -3234,6 +3234,16 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h33d4ad09g2a44gdbeagb56fg05f83a827a0b" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Spine_Decor_Metal_KAD"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="1fda92b4-315e-4df0-a111-78193a375c0b"/>
+                    <attribute id="VisualResource" type="guid" value="08784c76-6cc1-4c22-b45d-d336d4228e7d"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he401993fg4c9bgc189gf1a0g99e0cef8b029" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Tail_A_Tattoo_KAD"/>
@@ -3275,12 +3285,42 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h33d4ad09g2a44gdbeagb56fg05f83a827a0b" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Spine_Decor_Metal_KAD"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h128366bag2cbega8ccgd8fdg73650898b1e1" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_VNL_BodySelector_NPC_0_button"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="1fda92b4-315e-4df0-a111-78193a375c0b"/>
-                    <attribute id="VisualResource" type="guid" value="08784c76-6cc1-4c22-b45d-d336d4228e7d"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="9ff0004e-cd93-48e3-8eac-05093e0988b3"/>
+                    <attribute id="VisualResource" type="guid" value="9e557ffd-9dd2-863b-876a-1648325850e5"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6f0aebd4g3ba0g929bg4fe4g496e423510dc" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="AkELkA_Tech_Button_A"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="35381634-131a-4374-be5a-84103db719c2"/>
+                    <attribute id="VisualResource" type="guid" value="6c322f33-5289-4324-93e3-9deffad600d7"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4a828fecg9779ge853gf88egf23a4b26bc1b" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_VNL_BodySelector_NPC_0_button"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="6f0548d0-eb7a-4f64-b169-d279339b6995"/>
+                    <attribute id="VisualResource" type="guid" value="99911834-d7c2-481e-2eca-202587d6e3a8"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h65613a4agd405g03e6g0ec9g5ed85a7919d8" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="AkELkA_Tech_Button_A"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="cfd51a21-3aa0-4ea8-ad26-22ea26d2ec23"/>
+                    <attribute id="VisualResource" type="guid" value="ff04fbab-2290-4632-b3c2-3c6cb9531301"/>
                 </node>
             </children>
         </node>
