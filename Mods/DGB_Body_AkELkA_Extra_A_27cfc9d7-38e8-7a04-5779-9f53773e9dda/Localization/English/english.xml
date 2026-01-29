@@ -874,10 +874,10 @@
   <content contentuid="hd75c5893g3126g1670gb2f9g2c36d1ebd058" version="1">Outer Sickle - Scars A - Karlach Tattoo Black - Claw Attack</content>
   <content contentuid="h30d243eeg91ddg1c5bg4732g5097ae73b35c" version="1">Outer Sickle - Scars C - Claw Attack</content>
   <content contentuid="h5e8296e7g6acfg30a3gdda8g32373f0d9ca6" version="1">Spine Ritual Scar A</content>
-  <content contentuid="hcef3f698g9301g05adgb8b1gf86c322bd357" version="1">Clawstep - Scars A</content>
-  <content contentuid="h48649f95g0a4dgbe48g8f6eg8d8f07790823" version="1">Short Claws - Scars A - Extra Speed</content>
-  <content contentuid="h027f5c7bg8d23g255egac51g60496c557de3" version="1">Raptor - Scars A - Claw Attack</content>
-  <content contentuid="h7bb1b612ge9a1gb62dg134agdc0e64d5130d" version="1">Inner Sickle - Scars A - Claw Attack</content>
+  <content contentuid="hcef3f698g9301g05adgb8b1gf86c322bd357" version="2">Clawstep - Scars A - Karlach Tattoo Black</content>
+  <content contentuid="h48649f95g0a4dgbe48g8f6eg8d8f07790823" version="2">Short Claws - Scars A - Karlach Tattoo Black - Extra Speed</content>
+  <content contentuid="h027f5c7bg8d23g255egac51g60496c557de3" version="2">Raptor - Scars A - Karlach Tattoo Black - Claw Attack</content>
+  <content contentuid="h7bb1b612ge9a1gb62dg134agdc0e64d5130d" version="2">Inner Sickle - Scars A - Karlach Tattoo Black - Claw Attack</content>
   <content contentuid="h1aa43389g7032gc230gdd1age9f94128a0ad" version="1">Outer Sickle - Scars A - Claw Attack</content>
   <content contentuid="h5d0f4f2bg2799ga42eg1e53gaac409d3fef9" version="1">Inner Sickle - Scars A - Karlach Tattoo Black - Claw Attack</content>
   <content contentuid="h0b7a669dg96fagb7c4gf3c0g36968ded0e23" version="1">Outer Sickle - Scars A - Karlach Tattoo Black - Claw Attack</content>
@@ -893,4 +893,16 @@
   <content contentuid="h6f0aebd4g3ba0g929bg4fe4g496e423510dc" version="1">Tech Button (Prevent crush on Randomise)</content>
   <content contentuid="h4a828fecg9779ge853gf88egf23a4b26bc1b" version="1">No Attachment</content>
   <content contentuid="h65613a4agd405g03e6g0ec9g5ed85a7919d8" version="1">Tech Button (Prevent crush on Randomise)</content>
+  <content contentuid="heb5682a4gcc4egecdcg68f8g598c916f29de" version="2">Clawstep - Stripes Lizard A</content>
+  <content contentuid="hf15791f0g0e34g68e2ge45bg4539ba14e486" version="1">Short Claws - Stripes Lizard A - Extra Speed</content>
+  <content contentuid="hc65b8ebbgc29agcd66g2077g82bff155ec2a" version="1">Raptor - Stripes Lizard A - Claw Attack</content>
+  <content contentuid="ha6632148g85a5gec2agc481gdb148b810c42" version="1">3 Talons - Stripes Lizard A - Extra Speed</content>
+  <content contentuid="ha19b3619gcd16gbd85gec58gccd79471cbae" version="2">Inner Sickle -Stripes Lizard A - Claw Attack</content>
+  <content contentuid="h09d88b56gba3ag6584ga873gc175b3114591" version="1">Outer Sickle - Stripes Lizard A - Claw Attack</content>
+  <content contentuid="hf5912312g48f8ge390g40bag16adc8fb31dd" version="1">Clawstep -  Stripes Lizard A</content>
+  <content contentuid="hc832b231g2badg222ag5c5cg0d6b66ac3b57" version="2">Short Claws - Stripes Lizard A - Extra Speed</content>
+  <content contentuid="hc8ea347cg9186gd5f8g9721gf9c24d161d30" version="2">Raptor - Stripes Lizard A - Claw Attack</content>
+  <content contentuid="hff675c95g1c90g4d00g918fg7a8fe05aa2f9" version="1">3 Talons - Stripes Lizard A - Extra Speed</content>
+  <content contentuid="h930dc6bbg8b56g99a2g1734g424066a48caf" version="1">Inner Sickle - Scars C - Claw Attack</content>
+  <content contentuid="had094ed0g86ddg5476gf3e8g172a4a927ca6" version="1">Outer Sickle - Scars C - Claw Attack</content>
 </contentList>
