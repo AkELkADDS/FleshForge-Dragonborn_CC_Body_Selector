@@ -130,6 +130,24 @@
                     <attribute id="TargetMaterialUUID" type="FixedString" value="1f0e32c8-fdb7-ff24-c41f-04ce56f19b18"/>
                     <attribute id="UUID" type="guid" value="6ec3a554-5d04-4418-b6df-0ecaffa7ad5f"/>
                 </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_B_EL_2_Stripes_Lizard_A"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="e7f53403-fe41-17f6-119d-d1b0e1ec0448"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="38409ee0-9b0d-b979-fc10-e9411d6d7033"/>
+                    <attribute id="UUID" type="guid" value="5ea87b1e-2e36-42e7-a7c1-28e8f137e810"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Stripes_Lizard_A"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="8c78cbdb-5062-6559-92e2-df21e78a7649"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="b955aa8b-d751-ac12-22ac-6e3f7c189b34"/>
+                    <attribute id="UUID" type="guid" value="5a844bb5-ea42-4da6-a679-cb4776e76393"/>
+                </node>
             </children>
         </node>
     </region>
