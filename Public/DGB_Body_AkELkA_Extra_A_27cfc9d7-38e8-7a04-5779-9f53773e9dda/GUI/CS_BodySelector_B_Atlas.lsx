@@ -12,6 +12,13 @@
                     <attribute id="V2" type="float" value="0.12451172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Lizard_A"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.62548828"/>
+                    <attribute id="V2" type="float" value="0.74951172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Scars_Astarion"/>
                     <attribute id="U1" type="float" value="0.25048828"/>
                     <attribute id="U2" type="float" value="0.37451172"/>
@@ -52,6 +59,13 @@
                     <attribute id="U2" type="float" value="0.49951172"/>
                     <attribute id="V1" type="float" value="0.00048828125"/>
                     <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Lizard_A"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.62548828"/>
+                    <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Scars_Astarion"/>
@@ -96,6 +110,13 @@
                     <attribute id="V2" type="float" value="0.12451172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_Raptor_Lizard_A"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.62548828"/>
+                    <attribute id="V2" type="float" value="0.74951172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_Raptor_Scars_Astarion"/>
                     <attribute id="U1" type="float" value="0.12548828"/>
                     <attribute id="U2" type="float" value="0.24951172"/>
@@ -136,6 +157,13 @@
                     <attribute id="U2" type="float" value="0.24951172"/>
                     <attribute id="V1" type="float" value="0.12548828"/>
                     <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_ShortClaw_Lizard_A"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.75048828"/>
+                    <attribute id="V2" type="float" value="0.87451172"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_ShortClaw_Scars_Astarion"/>
@@ -180,6 +208,13 @@
                     <attribute id="V2" type="float" value="0.24951172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_SickleA_Lizard_A"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.75048828"/>
+                    <attribute id="V2" type="float" value="0.87451172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_SickleA_Scars_Astarion"/>
                     <attribute id="U1" type="float" value="0.00048828125"/>
                     <attribute id="U2" type="float" value="0.12451172"/>
@@ -220,6 +255,13 @@
                     <attribute id="U2" type="float" value="0.99951172"/>
                     <attribute id="V1" type="float" value="0.12548828"/>
                     <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_SickleB_Lizard_A"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.75048828"/>
+                    <attribute id="V2" type="float" value="0.87451172"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CS_BodySelector_A_SickleB_Scars_Astarion"/>

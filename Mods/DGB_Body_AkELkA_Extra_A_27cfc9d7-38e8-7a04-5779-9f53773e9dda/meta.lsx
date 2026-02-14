@@ -131,7 +131,7 @@ Lets Dragonborn party members use different-looking bodies within the same type,
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="0e9ac269d5650d1be29be9b40f4367e2"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="ZXY - FleshForge - Dragonborn CC Body Selector"/>
+                    <attribute id="Name" type="LSString" value="ZXY - FleshForge - Body Selector - Digitigrade"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="5069480"/>

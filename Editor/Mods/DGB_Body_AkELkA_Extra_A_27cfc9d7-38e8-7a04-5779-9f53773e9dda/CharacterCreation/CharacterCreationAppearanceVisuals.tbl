@@ -122,7 +122,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c89c82f7-f0fa-45f0-8f15-f21e86cd806c" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_A_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heb5682a4gcc4egecdcg68f8g598c916f29de" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -227,7 +227,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf15791f0g0e34g68e2ge45bg4539ba14e486" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -332,7 +332,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc65b8ebbgc29agcd66g2077g82bff155ec2a" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -437,7 +437,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha6632148g85a5gec2agc481gdb148b810c42" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -542,7 +542,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha19b3619gcd16gbd85gec58gccd79471cbae" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -647,7 +647,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h09d88b56gba3ag6584ga873gc175b3114591" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -745,7 +745,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="51d34e38-8690-4cc7-acea-ba877b7c59de" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf5912312g48f8ge390g40bag16adc8fb31dd" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -850,7 +850,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc832b231g2badg222ag5c5cg0d6b66ac3b57" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_ShortClaw_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -955,7 +955,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc8ea347cg9186gd5f8g9721gf9c24d161d30" version="2" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="e8ff7ab0-5a7b-40b6-b9eb-b4a13c9f82e7" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Raptor_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -1060,7 +1060,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff675c95g1c90g4d00g918fg7a8fe05aa2f9" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -1165,7 +1165,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h930dc6bbg8b56g99a2g1734g424066a48caf" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleA_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">
@@ -1270,7 +1270,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_Stripes_Lizard_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="had094ed0g86ddg5476gf3e8g172a4a927ca6" version="1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="f0c48ac9-714b-4863-a11a-c2d10f31ddec" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Scars_Astarion" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_SickleB_Lizard_A" />
       </fields>
     </stat_object>
     <stat_object color="#FF000000" is_substat="false">
